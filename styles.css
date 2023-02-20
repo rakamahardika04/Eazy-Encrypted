@@ -80,6 +80,15 @@ table {
     padding: 16px;
 }
 
+.content-tiga-input-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content-tiga-input {
+    width: 32%;
+}
+
 /* HERO */
 
 .hero {
